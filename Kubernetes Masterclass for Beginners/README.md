@@ -2,4 +2,10 @@
 
 Adding Kubernetes Masterclass for Beginners files, course from Udemy.
 
-Repo : https://github.com/mischavandenburg
+Raepo : https://github.com/mischavandenburg
+
+Brew install :
+--------------------
+kubectl
+k9s
+tmux
